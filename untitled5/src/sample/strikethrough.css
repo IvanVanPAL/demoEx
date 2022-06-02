@@ -1,0 +1,4 @@
+/** file: strikethrough.css (place in same directory as Strikeout) */
+.label .text {
+    -fx-strikethrough: true;
+}
